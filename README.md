@@ -42,3 +42,8 @@
 === EMPRÉSTIMOS ATIVOS ===  
 Empréstimo: Dom Casmurro - Machado de Assis | Emprestado  
 Data: 15/03/2024 → 29/03/2024  
+
+## 👤 GitHub
+
+[![Foto de Perfil](https://github.com/floresjcd.png?size=50)](https://github.com/floresjcd) 
+**[@floresjcd](https://github.com/floresjcd)**
