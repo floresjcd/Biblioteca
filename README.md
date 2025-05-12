@@ -1,18 +1,46 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**\. Estrutura do Projeto**
+----------------------------
 
-## Folder Structure
+📂 Biblioteca/
+├── 📄 Autor.java
+├── 📄 Livro.java
+├── 📄 Usuario.java
+├── 📄 Emprestimo.java
+└── 📄 Main.java (classe principal com menu)
 
-The workspace contains two folders by default, where:
+**\. Como Executar no VSCode**
+-------------------------------
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1.  Crie uma pasta para o projeto (ex: `Biblioteca`)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+2.  Abra no VSCode e crie os arquivos `.java` conforme acima
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+3.  Compile e execute `Main.java`:
 
-## Dependency Management
+    -   Abra o terminal (Ctrl + `)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+    -   Compile: `javac *.java`
+
+    -   Execute: `java Main`
+
+**\. Fluxo de Teste**
+----------------------
+
+1.  Cadastre 1+ autores
+
+2.  Cadastre 1+ livros (associando a autores)
+
+3.  Cadastre 1+ usuários
+
+4.  Realize empréstimos
+
+5.  Liste livros e empréstimos ativos
+
+**Exemplo de Saída:**
+
+=== EMPRÉSTIMOS ATIVOS ===
+
+Empréstimo: Dom Casmurro - Machado de Assis | Emprestado
+
+Data: 15/03/2024 → 29/03/2024
