@@ -4,9 +4,13 @@
 
 📂 Biblioteca/
 ├── 📄 Autor.java
+
 ├── 📄 Livro.java
+
 ├── 📄 Usuario.java
+
 ├── 📄 Emprestimo.java
+
 └── 📄 Main.java (classe principal com menu)
 
 **\. Como Executar no VSCode**
