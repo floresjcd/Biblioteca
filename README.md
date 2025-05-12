@@ -39,8 +39,6 @@
 
 **Exemplo de Saída:**
 
-=== EMPRÉSTIMOS ATIVOS ===
-
-Empréstimo: Dom Casmurro - Machado de Assis | Emprestado
-
-Data: 15/03/2024 → 29/03/2024
+=== EMPRÉSTIMOS ATIVOS ===  
+Empréstimo: Dom Casmurro - Machado de Assis | Emprestado  
+Data: 15/03/2024 → 29/03/2024  
